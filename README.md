@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-dennings_owoh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dennings-owoh)](https://www.linkedin.com/in/dennings-owoh) [![Frontend Mentor Badge](https://img.shields.io/badge/-@ArinzeGit-blue?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/ArinzeGit)](https://www.frontendmentor.io/profile/ArinzeGit) [![Instagram Badge](https://img.shields.io/badge/-@\_.arinze.\_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/_.arinze._)](https://instagram.com/_.arinze._) [![Twitter Badge](https://img.shields.io/badge/-@Arinze98433402-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Arinze98433402)
 
+### I am a Software Engineer and Frontend Developer
+
 ---
 
 ### Technical Skills

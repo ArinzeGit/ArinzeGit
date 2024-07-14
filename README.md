@@ -8,9 +8,9 @@
 
 ### Technical Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React
+- **Frameworks/Libraries**: React, React Testing Library, JEST
 - **Tools**: Git, GitHub, VSCode, Vite, Node.js, Slack
-- **Other Skills**: API Integration
+- **Other Skills**: API Integration, Testing
 
 ---
 

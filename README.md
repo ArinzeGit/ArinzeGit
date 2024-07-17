@@ -10,7 +10,7 @@
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries**: React, React Testing Library, JEST
 - **Tools**: Git, GitHub, VSCode, Vite, Node.js, Slack
-- **Other Skills**: API Integration, Testing
+- **Other Skills**: API Integration, Testing (RTL and JEST)
 
 ---
 

@@ -28,7 +28,7 @@
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries**: Bootstrap, Tailwind CSS, React, React Testing Library, Jest, Vitest 
 - **Tools**: Node.js, Vite, VSCode, Figma, Git, GitHub, Slack
-- **Other Skills**: API Integration, Testing (RTL, Jest and Vitest)
+- **Other Skills**: API Integration, Software Testing (RTL, Jest and Vitest)
 
 ---
 

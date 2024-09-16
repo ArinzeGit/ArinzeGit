@@ -26,14 +26,14 @@
 
 ### Technical Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: Bootstrap, Tailwind CSS, React, React Testing Library, Jest, Vitest 
+- **Frameworks/Libraries**: Bootstrap, Tailwind CSS, React, Next, React Testing Library, Jest, Vitest 
 - **Tools**: Node.js, Vite, VSCode, Figma, Git, GitHub, Slack
 - **Other Skills**: API Integration, Software Testing (RTL, Jest and Vitest)
 
 ---
 
 - 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning software testing
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with open source projects, hackathons
 - ⚡ Fun fact: I love JavaScript, Speedcubing, Pure Mathematics, Table tennis and Cats

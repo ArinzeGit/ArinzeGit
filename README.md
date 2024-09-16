@@ -27,7 +27,7 @@
 ### Technical Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries**: Bootstrap, Tailwind CSS, React, Next, React Testing Library, Jest, Vitest 
-- **Tools**: Node.js, Vite, VSCode, Figma, Git, GitHub, Slack
+- **Tools**: Node.js Package Manager, Vite, VSCode, Figma, Git, GitHub, Slack
 - **Other Skills**: API Integration, Software Testing (RTL, Jest and Vitest)
 
 ---

@@ -39,7 +39,7 @@
 - 🤔 I’m looking for help with open source projects, hackathons
 - ⚡ Fun fact: I love JavaScript, Speedcubing, Pure Mathematics, Table tennis and Cats
 - 💼 Job interests: Software Engineer, Frontend Engineer
-- 📫 You can view my [PORTFOLIO](https://github.com/ArinzeGit/Arinze-Owoh-Portfolio) and contact me via email arinzeowoh@gmail.com
+- 📫 You can view my [PORTFOLIO](https://my-portfolio-website-silk-five.vercel.app/home) and contact me via email arinzeowoh@gmail.com
 
 ---
 

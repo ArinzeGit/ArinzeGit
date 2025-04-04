@@ -1,6 +1,6 @@
 ## Hello there; welcome 👋🏾
 
-### I am a Frontend Developer and Software Tester
+### I am a Frontend Developer, Game Developer and Software Tester
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width='40' height='40' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width='40' height='40' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width='40' height='40'/>

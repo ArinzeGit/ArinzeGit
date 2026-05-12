@@ -11,21 +11,10 @@
 
 ### Technical Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: Bootstrap, Tailwind CSS, React, Next, React Testing Library, Jest, Vitest 
+- **Frameworks/Libraries**: React.js, Next.js, React Testing Library, Jest, Vitest, Bootstrap, Tailwind CSS. 
 - **Tools**: Node.js Package Manager, Vite, VSCode, Figma, Git, GitHub, Slack
 - **Other Skills**: API Integration, Software Testing (RTL, Jest and Vitest)
 
 ---
 
-- 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with open source projects, hackathons
-- ⚡ Fun fact: I love JavaScript, Speedcubing, Pure Mathematics, Table tennis and Cats
-- 💼 Job interests: Software Engineer, Frontend Engineer
 - 📫 You can view my [PORTFOLIO](https://my-portfolio-website-silk-five.vercel.app/home) and contact me via email arinzeowoh@gmail.com
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArinzeGit&show_icons=true&hide_border=true" alt="Arinze's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinzeGit&layout=compact&hide_border=true" alt="Arinze's GitHub stats" /> |
-| ------------- | ------------- |

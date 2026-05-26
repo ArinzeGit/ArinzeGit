@@ -17,4 +17,4 @@
 
 ---
 
-- 📫 You can view my [PORTFOLIO](https://my-portfolio-website-silk-five.vercel.app/home) and contact me via email arinzeowoh@gmail.com
+- 📫 You can view my [PORTFOLIO](https://arinzegames.com/) and contact me via email arinzeowoh@gmail.com
